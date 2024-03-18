@@ -1,0 +1,17 @@
+boto3
+coloredlogs
+fire
+flake8
+https://artifactory.in.here.com/artifactory/api/pypi/routing-pypi/packages/here-pygerrit2/2.0.3.dev32/here-pygerrit2-2.0.3.dev32.tar.gz
+jinja2
+lxml
+mock
+nose
+nose-testconfig
+PyHamcrest
+requests==2.18.4
+ruamel.yaml
+urllib3==1.25.10
+xmltodict
+xmlunittest
+#logging
